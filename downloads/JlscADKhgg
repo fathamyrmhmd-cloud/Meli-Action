@@ -1,0 +1,99 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en" dir="rtl">
+
+<head>
+    
+
+<script type="application/ld+json">
+    {
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Rubika",
+  "url": "https://rubika.com",
+  "logo": "https://rubika.com/assets/logo.png",
+  "subOrganization": [
+    {
+      "@type": "Organization",
+      "name": "Rubika TV",
+      "url": "https://tv.rubika.com"
+    },
+    {
+      "@type": "Organization",
+      "name": "Rubika VOD",
+      "url": "https://vod.rubika.com"
+    }
+  ]
+}
+
+</script>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rubika</title>
+    <link rel="stylesheet" href="/static/css/app.css">
+    <link rel="icon" type="image/x-icon" href="/static/images/favicon.ico"/>
+</head>
+
+<body>
+    <div class="wrapper">
+        <header class="header">
+            <div class="container">
+                <a href="https://rubika.ir/install-android" class="header-link">
+                    <div class="logo">
+                        <img src="/static/images/logo.svg">
+                    </div>
+                    <div class="btn btn-primary">نصب روبیکا</div>
+                </a>
+            </div>
+        </header>
+        <section class="main">
+            <div class="banner">
+                <img src="/static/images/channel_rubino.svg">
+                <div class="chat-item">
+                    <div class="dialog-avatar">
+                        
+                            <img src="https://scs445.iranlms.ir/picture/2025-08-18-01/cf23fe2d-5081-4d20-a408-4a3bf05f31a9" class="dialog-avatar">
+                        
+                    </div>
+                    <div class="user-caption">
+                        <p class="dialog-title">
+                            
+                        </p>
+                        
+                        <p class="dialog-subtitle">
+                            <span class="user-last-message">694 مشترک </span>
+                        </p>
+                        
+                    </div>
+                </div>
+    
+            </div>
+            <div class="container">
+                
+                    <a href="rubika://p.rubika.ir/JlscADKhgg" class="btn btn-outline-primary btn-block">مشاهده پست</a>
+                    
+                
+
+                
+                
+                <div class="l-desc">•
+•
+هرگز بہ ڪسے...ڪہ براےِاحساس تو 
+ارزش قائل نیست دل نبند بہ خودت
+بیاموز هر ڪسےارزشِ ماندن در قلبِ 
+تو را ندارد  
+‎‌‎‎⁦
+</div>
+                
+                <div class="input-wrapper">
+                </div>
+            </div>
+        </section>
+
+    </div>
+</body>
+
+</html>
